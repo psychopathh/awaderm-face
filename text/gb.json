@@ -1,0 +1,874 @@
+{ 
+	"landing": [{ 
+		"order_button":[
+			"Easy Purchase"
+		],
+		"open_button_cod": [
+			"retail:",
+			"",
+			"New!",
+			"",
+			"Fast ",
+			"Shipping",
+			"+ "
+		],
+		"delivery": [{
+			"title": [
+				"Delivery All Over Europe!"
+			],
+			"text": [
+				"You will recieve your Awaderm Cream in 4-7 days after the order.",
+				"Pay only after recieving the package!"
+			]
+		}],
+		"how_order": [{
+			"title": [
+				"How Do I Order?"
+			],
+			"text": [
+				"Fill in the order form below",
+				"Your name and your contact telephone number",
+				"Confirm the delivery address, type and date",
+				"Manager will call you after the order",
+				"Recieve the product and pay",
+				"Payment upon delivery to courier or at post office"
+			]
+		}],
+		"order_form": [{
+			"form": [
+				"Order Now",
+				"and get your Awaderm ",
+				"with a special price: ",
+				"from ",
+				"Name:",
+				"i.e. Marry Johnson",
+				"Your name",
+				"Contact phone number:",
+				"i.e. +490 1234567",
+				"Your contact phone number",
+				"Order Now",
+				"with Discount",
+				"* Filling out the form does not oblige you to make a purchase.",
+				"discount"
+			],
+			"promotion": [
+				"Up to",
+				"60% ",
+				"off",
+				"The PROMOTION is active ",
+				"from ",
+				" to ",
+				"Purchased this week:",
+				"1428 ",
+				"pcs",
+				"!"
+			],
+			"date": [
+				"",
+				""
+			]
+		}],
+		"ssl_sec": [
+			"This is a 256-Bit Secure SSL Connection"
+		],
+		"before": "before",
+		"after": "after",
+		"tv": "As seen on TV: ",
+		"greeting":[{
+			"title": [
+				"Get Rid of Wrinkles in ",
+				"21 Days"
+			],
+			"subtitle": [
+				"Without Injections and Surgeries"
+			],
+			"nope": [
+				"Awaderm Cream with a natural Filagrinol complex"
+			],
+			"list_box": [
+				"Elimination of up to 99% ",
+				"of wrinkles within one course",
+				"20% reduction ",
+				"in the appearance of wrinkles during the first ",
+				"3 days of use alone",
+				"Targets all areas ",
+				"with wrinkles",
+				"Smooths out ",
+				"even deep wrinkles",
+				"Safe and natural, ",
+				"the atest scientific development in skin care"
+			]
+		}],
+		"wrinkles": [{
+			"title": [
+				"Wrinkles Give Away Your Age ",
+				"and Make You Unattractive "
+			],
+			"text": [
+				"89% ",
+				"of men consider wrinkles ",
+				"to be a sign of old age and withering of a woman.",
+				"76% ",
+				"of men do not consider women, ",
+				"whose face are covered in wrinkles, sexually attractive",
+				"85% ",
+				"of divorces and husbands’ cheating ",
+				"occur due to the woman becoming unattractive",
+				"98%",
+				"of women think that wrinkles ",
+				"are their main problem when taking care of themselves",
+				"94% ",
+				"of employers will not offer ",
+				"a position or a promotion to a woman who looks older than 40"
+			]
+		}],
+		"fighting": [{
+			"nope": [
+				"The worst thing is, the number of wrinkles will only grow. ",
+				"If your skin started to age, with time, this process will become avalanche-like. This is why it is so important to restore youth and skin health as early as possible!"
+			],
+			"title": [
+				"Awaderm is the First Universal Cream Aimed at ",
+				"Fighting All Types of Wrinkles"
+			],
+			"subtitle": [
+				"Recommendations on ",
+				"Age-related ",
+				"Application:"
+			],
+			"age": [
+				"25+",
+				"30+",
+				"40+"
+			],
+			"caption": [
+				"Women who are ",
+				"only beginning ",
+				"to have wrinkles.",
+				"Women who ",
+				"already have wrinkles ",
+				"increasing in number.",
+				"Women who are ",
+				"have many deep ",
+				"wrinkles."
+			],
+			"text": [
+				"Awaderm restores skin health and elasticity, preventing wrinkles from appearing on a cell level. The earlier women begin to use it, the greater effect is achieved in preserving youth.",
+				"Awaderm stops skin cell deformation, increasing the production of collagen and elastin. This allows to delay the appearance of a multitude of wrinkles and to eliminate the existing ones.",
+				"Awaderm features an accumulative effect. When used regularly, it is capable of smoothing out skin and eliminating even deep wrinkles. Elimination of 99% of wrinkles is the proved effect of the cream. Aside from that, Awaderm takes into consideration the hormonal change in mature women."
+			]
+		}],
+		"problems_main": [{
+			"title": [
+				"Skin Problems ",
+				"That Awaderm Helps to Deal With"
+			],
+			"text": [
+				"Wrinkles on the forehead ",
+				"and between the eyebrows",
+				"Wrinkles around the eyes, ",
+				"‘crow’s feet’",
+				"Nasolabial ",
+				"folds",
+				"‘Bags’ ",
+				"under the eyes",
+				"Loss of shape, ",
+				"jowls",
+				"Pigmentation",
+				"Enlarged ",
+				"pores",
+				"Wrinkles on the neck ",
+				"and chin"
+			]
+		}],
+		"botox": [{
+			"title": [
+				"Botox Effect, But Without Injections!",
+				"Why Is Awaderm Better Than Other Methods Of Restoring Youth?"
+			],
+			"caption": [
+				"Cosmetic face lifting ",
+				"(injections, surgeries, thread lifting)",
+				"Physical procedures",
+				"(peeling, lifting, mesotherapy, etc.)",
+				"Expensive creams ",
+				"and serums."
+			],
+			"text": [
+				"does not always have the expected result. It can disfigure a woman’s face for good. Infections, paralysis, scars, wrong symmetry and skin cancer are all well known consequences of such procedures.",
+				"Rejuvenation with the help of physical procedures requires a serious financial investment. And since such procedures have to be performed constantly, they become heavy on the family’s budget.",
+				"Despite having an impressive composition, they cannot penetrate the deeper layers of skin, since 97% of biologically active substances stay in the epidermis. Because of this, even if they give a result, it’s insignificant."
+			]
+		}],
+		"experts": [{
+			"title": [
+				"More Than 3,000 Users Have Confirmed ",
+				"That Awaderm Helps to Deal With All Signs of Skin Withering."
+			],
+			"text": [
+				"The important difference of Awaderm from creams of the previous generation is the fact that it is manufactured with the use of the newest technology that is able disintegrate biologically active substances to a microscopic size. ",
+				"As a result, they easily penetrate the skin and end up in the inner skin layers, providing useful effects. ",
+				"Awaderm is a truly revolutionary scientific invention. It is extremely effective, a fact which has been proven by scalable clinical research. If you wish to get rid of your existing wrinkles, prevent new ones from appearing, and improve the general state of your skin, I recommend that you use Awaderm cream."
+			],
+			"name": [
+				"Name and Surname, ",
+				"a celebrity cosmetologist with more than 25 years of experience in the beauty industry "
+			],
+			"desc": [
+				"wrinkles",
+				"smooth skin"
+			]
+		}],
+		"contents": [{
+			"title": [
+				"100% Natural Contents - ",
+				"More ",
+				"Than 50 Biologically Active Substances!"
+			],
+			"caption": [
+				"Natural Filagrinol Complex ",
+				"Avocado Oil"
+			],
+			"subcaption": [
+				"This consists of soya and olive oils, wheat seed germ oil, and flower pollen extract. ",
+				"Represented as a concentrated extract. Contains a great number of vitamins (A, B, C, E and others) and micronutrients. "
+			],
+			"text": [
+				"The Filagrinol complex stimulates the production of collagen and elastin, launches the process of cell renovation, ensures nutrition of soft tissues, makes the skin elastic and resilient, stimulates blood flow, smooths out skin and eliminates all types of wrinkles, and increases the durability of collagen fibers. It features a powerful long-term action. ",
+				"It is a powerful antioxidant that eliminates the main causes of skin aging, improves nutrition and activates metabolic processes, eliminates toxins, neutralizes the aggressive impact of sun rays on skin, preserves skin elasticity and resilience, provides for a strong rejuvenating effect, and enhances the effect of the Filagrinol complex."
+			]
+		}],
+		"involving": [{
+			"title": [
+				"Independent Experts in the Field of Cosmetology did a Study of Awaderm Cream ",
+				"Involving 2,000 Women Over 3 Months"
+			],
+			"name": [
+				"awaderm"
+			],
+			"value": [
+				"99%",
+				"16%",
+				"94%",
+				"11%",
+				"97%",
+				"14%",
+				"87%",
+				"8%",
+				"100%",
+				"38%"
+			],
+			"other": [
+				"other products"
+			]
+		}],
+		"graph_legend":[{
+			"desc": [
+				"Elimination of wrinkles ",
+				"Increase in the levels of collagen and elastin",
+				"Improvement of main skin characteristics (colour, turgor, elasticity)",
+				"Face lifting, elimination of jowls",
+				"Absence of side effects"
+			]
+		}],
+		"reviews": [{
+			"title": [
+				"Reviews Received by Mail"
+			],
+			"name" :[
+				"Name, ",
+				"Name, ",
+				"Name, ",
+				"Name, "
+			],
+			"age": [
+				"48.y.o, city",
+				"33.y.o, city",
+				"39.y.o, city",
+				"45.y.o, city"
+			],
+			"caption": [
+				"I began looking significantly better and younger ",
+				"Helped literally within a week ",
+				"I am glad I found this wonderful product ",
+				"I was waking up every day, going to the mirror, and seeing progress"
+			],
+			"text":[
+				"I liked this cream more than any other! I had a lot of minor wrinkles around my eyes and nose, and a few deep ones on my forehead. I decided to try Awaderm because one of my friends recommended it. No cream before helped me like this one. All wrinkles disappeared approximately within 3 weeks. I began looking significantly better and younger. Men even began complimenting me way more often, which is very nice at my age. If any wrinkles suddenly appear again, I’ll know how to get rid of them. I recommend this miraculous cream to everyone!",
+				"This is just a wonderful cream!!! It helped me a lot! Lately, I haven’t had much sleep and was very nervous because of my work. As a result, I started to look awful, way older than my age. My skin lost its colour, and I started having dark circles and swelling under my eyes. An acquaintance advised me to try this cream. It helped me literally within a week. My ‘bags’ disappeared, my skin turned pink, but that’s not all; my wrinkles smoothed out, including the wrinkle I’ve had since I was 20! Awaderm is the best cream of all!",
+				"During the first week, my baggy eyes disappeared, and by the end of the month, even a scary wrinkle on my forehead smoothed out, my face lost its grey-white colour, and my skin became significantly more elastic. I began looking like I was 10 years younger. I work as a representative of a big company, and appearance matters a lot to me. I used to try many creams and serums before this, but they weren’t helpful. I even wanted to do a surgery, but I’ve changed my mind now. Awaderm helped me to achieve everything I wanted. I am very glad that I found out about this cream",
+				"The results of using Awaderm cream were already noticeable in just a few days, so I decided to undergo a full course. I was waking up every day, going to the mirror, and seeing progress. As a result, wrinkles around my nose and mouth, wrinkles on my forehead, and my ‘crow’s feet’ disappeared fully. My skin gained a healthy tone, my pores reduced, and my skin feels like it’s more elastic now. Recently, I decided to take a look at my old photos, and I realized that I look much better now. Thanks, Awaderm!"
+			],
+			"subtitle": [
+				"What Do Buyers Say About Awaderm?"
+			]
+		}],
+		"slider":[{
+			"name": [
+				"username",
+				"username",
+				"username",
+				"username"
+			],
+			"text": [
+				"A miraculous product for rejuvenation that works like magic. 🙌 🙌 The most stunning cream I’ve ever tried. 👍 👍 👍 👍 The result after a week of application, and it’s truly impressive. I know you can’t help but agree, it looks way better without wrinkles! 🙏",
+				"Getting 10 years younger. About a month ago I found out about Awaderm cream and decided to give it a try. I made the before and after pictures on purpose. You can see the result. The cream isn’t expensive compared to luxurious makeup products, but it eliminates wrinkles way better. It’s my favourite cream 💜💜💜 ",
+				"I recently read about it in Vogue. 💁‍ I decided to give it a try last week. How do you like the result? 😀 All of this is Awaderm cream All my friends ordered it 🙏 🙏 ",
+				"Who do you think this is? This is my granny, she’s 74! 😱 I presented her with this cream called Awaderm. Frankly speaking, she was using it not for 3 weeks, but 6, but the number of wrinkles decreased significantly! It’s possible to look beautiful even at her age! 👍 👍 👍 "
+			],
+			"tags": [
+				"#awaderm #cream #naturalcream #creamforwrinkles #antiagingcare #skincare #awadermworksmagic",
+				"#moisturizingcream #facecare #resilientskin #athomeskincare  #creamagainstwrinkles #creamforwrinkles #uniquecream #awaderm #quickrejuvenation",
+				"#cream #facecream #creamagainstwrinkles #facecream #uniquecream #rejuvenatingcream #youthcream #organiccosmetics #organiccream #creamforagingskin #resilientskin #turgor #forskinturgor",
+				"#myfavouritecream #supercream #healthbeauty #cream #facecream #creamforwrinkles #moisturizingcream  #naturalcosmetics #multivitamincream #originalcosmetics"
+			]
+		}],
+		"esle": [{
+			"title": [
+				"Why Else Should You Use Awaderm?"
+			],
+			"desc":[
+				"100% natural ",
+				"and safe",
+				"Doesn’t cause ",
+				"skin addiction",
+				"Ensures natural ",
+				"rejuvenation",
+				" A unique modern ",
+				"formula",
+				"Perfect for skin ",
+				"care at home",
+				"The choice ",
+				"of leading cosmetologists",
+				"An affordable ",
+				"price"
+			]
+		}],
+		"recommendations": [{
+			"title": [
+				"Recommendations on Application"
+			],
+			"caption": [
+				"Take off your makeup ",
+				"Apply the cream ",
+				"Repeat the procedure ",
+				"Become younger and prettier "
+			],
+			"desc": [
+				"carefully and cleanse your face",
+				"using light movements, tapping it in with your fingertips",
+				"2 times a day, in the morning and in the evening",
+				"every day using Awaderm"
+			]
+		}],
+		"timer": [{
+			"desc": [
+				"hours",
+				"minutes",
+				"seconds"
+			]
+		}]
+	}],
+	"common": [{
+		"current_lang": "gb",
+		"site_name": "Awaderm",
+		"site_desc": "",
+		"domain": "Awaderm.com",
+		"phone": "+44(160)393-70-44",
+		"mail": "support.uk@awaderm.com",
+		"close": "Close",
+		"attention": "Warning:",
+		"warning": "Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017 only 23 items are still available and the next shipment is expected in 4 weeks.",
+		"footer": [{
+			"menu": [
+				"Description of Product",
+				"Terms and Conditions",
+				"Privacy Policy",
+				"Contact Us"
+			],
+			"warning": [
+				"Warning: ",
+				"Keep out of reach of children. For external use only. Stop use and consult a doctor if irritation develops. All Pictures shown are for illustration purpose only. Actual product may vary due to product enhancement.",
+				"Attention: ",
+				"Because of all the media attention we have limited stock. As of ",
+				"only 23 items are still available. "
+			],
+			"copyrignt": [
+				"Copyright © 2017-2018 ",
+				"ABIRIX LIMITED",
+				"Spirou Kyprianou, 61",
+				"SK HOUSE, 4003, Limassol, Cyprus"
+			]
+		}],
+		"bank_details": [{
+			"accept": "We accept:",
+			"caption": "Bank details:",
+			"account": "EUR account",
+			"name": "BANK NAME: Fio banka, a.s.",
+			"swift": "SWIFT: FIOBCZPPXXX",
+			"address": "BANK ADDRESS: Millennium Plaza, V Celnici 10 117 21 Prague 1",
+			"iban": "IBAN: CZ4120100000002001255530",
+			"number": "ACCOUNT NUMBER (EUR) 2001255530/2010"
+		}],
+		"button": [
+			"go to next step",
+			"Shipping Info "
+		],
+		"popups": [
+			{
+				"doctor": [
+					"The International Medical Association approves the product we offer. It passed all the necessary clinical tests and was thoroughly studied by a commission of doctors.",
+					"Decision of the commission:",
+					"The product is completely natural, highly effective, harmless to people, and then without any restrictions can be used in the home as a basic or auxiliary mean.",
+					"The Head of Commission: ",
+					"Wesley M. doctor of the highest category, M.D."
+				],
+				"terms": [
+					"Terms and Conditions",
+					"Welcome to ",
+					"Awaderm ",
+					", and thank you for considering our products and services. Guarding your personal information is very important to us; the following policy explains how your information is used and protected. As stated in our Terms and Conditions, our Privacy Policy forms part of your legal agreement with us. Your use of this Website signifies your agreement with all terms of our Privacy Policy. Please do not use this Website if you disagree with any part of our Privacy Policy.",
+					"PLEASE NOTE: OUR TERMS and CONDITIONS and PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING AT THIS WEBSITE. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. ",
+					"Awaderm ",
+					"DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEBSITE. ",
+					"IF YOU DO NOT AGREE WITH THIS TERMS and CONDITIONS and/or our PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION TO Awaderm OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED ON THE WEBSITES REFERRED TO IN AND IN OUR PRIVACY POLICY. ",
+					"THESE TERMS AND CONDITIONS (“TERMS”) AND THE TERMS CONTAINED WITHIN THE WEBSITE DISCLAIMER APPLY TO YOUR USE OF THIS WEBSITE AND ANY PURCHASE YOU MAKE. YOU WILL NEED TO CONFIRM THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS AND CONDITIONS AND OUR DISCLAIMER IN ORDER TO PROCEED WITH YOUR ORDER AND TO MAKE A PURCHASE. ",
+					"YOU WILL BE ABLE TO PRINT OFF A COPY OF THESE TERMS AND CONDITIONS – WE RECOMMEND THAT YOU DO THIS AND KEEP A COPY FOR YOUR FUTURE REFERENCE. YOU WILL ALSO NEED TO CONFIRM THAT YOU CONSENT TO OUR PROCESSING OF YOUR PERSONAL DATA IN ORDER TO PROCEED WITH A PURCHASE. PLEASE READ THE TERMS AND CONDITIONS WHICH DEAL WITH OUR USE OF YOUR PERSONAL DATA CAREFULLY BEFORE SUBMITTING YOUR ORDER. ",
+					"BY PLACING AN ORDER THROUGH THIS WEBSITE, YOU ACKNOWLEDGE AND AGREE TO BE BOUND BY ALL OF THIS TERMS AND CONDITIONS STATED HEREIN. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS BELOW AND/OR OUR PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THESE TERMS AND CONDITIONS AND PRIVACY POLICY, PLEASE DO NOT PLACE ANY ORDER WITH US. ",
+					"By makingorder through this Website You warrant that You are at least 18 years old and capable of entering into binding contracts. You further warrant that you understand and agree to be bound by these Terms and Conditions and our Privacy Policy. ",
+					"Definitions ",
+					"In these Terms, the following words have the following meanings unless the context otherwise requires: ",
+					"“Contract”",
+					"means any contract between Customer and Awaderm incorporating these Terms for the supply of Products and Services; ",
+					"“Liability”",
+					"means liability for any and all damages, claims, proceedings, actions, awards, expenses, costs and any other losses and/or liabilities;",
+					"“Products” ",
+					"means any and all products ordered from Us by You;",
+					"“We, Us, Our”, “Company”",
+					"means Awaderm operated by ABIRIX LIMITED; ",
+					"“Website”",
+					"means https://awaderm.com/;",
+					"“Services,” “Product”",
+					"means any and all services ordered from Us by You;",
+					"“You, Your, Yourself” or “Customer”",
+					"means the person whose order for Products and/or Services is accepted by Us.",
+					"1. Terms and Conditions",
+					"1.1 These Terms govern the supply of Products and Services to You.",
+					"1.2 It is Your responsibility to ensure that Your use of the Website and the purchase of the Products and/or Services is legal in the country in which You are resident and/or in which You are viewing this Website.",
+					"2. Basis of Contract",
+					"2.1 These Terms and any document or disclaimer referred to in them represent the entire agreement between You and Us in relation to the supply of any Products and/or Services via the Website.",
+					"2.2 These Terms supersede all previous terms and conditions, prior agreements, representations, understandings or arrangements and shall replace any terms and conditions previously available on this Website or notified to You. You acknowledge that in entering into a Contract with Us You have not relied upon any representation, undertaking or promise previously given or implied from anything said in negotiations or otherwise prior to such Contract save as is expressly set out in these Terms.",
+					"2.3 We have the right to modify, vary or amend these Terms from time to time.",
+					"2.4 We reserve the right to change and modify these Terms without prior notice. You will be subject to the terms and conditions in force at the time that You order Products and/or Services from Us.",
+					"3. Orders and Contracts",
+					"3.1 You may place your orders for Products and/or Services via the Website.",
+					"3.2 We have the right to refuse to accept any orders placed for Products and/or Services. Your order for Products and/or Services constitutes an offer to Us to buy those Products and/or Services and shall only form a binding Contract when We send Our order confirmation to You by e-mail.",
+					"3.3 You shall be responsible for the accuracy of Your order and for giving Us any and all information necessary for Us to perform the Contract. When You input Your details via the Website, You are responsible for ensuring that all information You give Us is correct. Our ordering process on the Website will provide You with instructions on how to correct any input errors.",
+					"3.4 Products are subject to availability. If We are unable to supply You with the Products due to the fact that they are out of stock, We will inform You as soon as possible. You will be given the option of (i) waiting until the Products are in stock when We will perform the Contract; or (ii) cancelling Your affected order and obtaining a full refund (if We have already received payment from You).",
+					"3.5 We try to ensure that all details contained within the Website are as accurate as possible. On the rare occasion that there is an error, We will advise You as soon as possible and it will be corrected.",
+					"3.6 Please note that any details and/or specifications for the Products and/or Services produced by Us (including any photographs of the Products) are intended as a guide only to give a general approximation.",
+					"3.7 We keep copies of all orders We receive and accept for a period of 5 years from the date of the order. This enables Us to process orders effectively, maintain high levels of customer service and deal with quality issues should they arise.",
+					"3.8 We will have Special Offers on Our Website from time to time, which, in the event of any dispute regarding the rules, conduct, results and all other matters relating to these matters, the decision will be left to the management of Our Website. No correspondence, beyond reason, or discussion shall be entered into relating to any disputes.",
+					"4. Cancellation",
+					"4.1 Once an order has been submitted your credit card will be charged. Our ordering process is streamlined so your order will immediately be sent to processing and then shipping. Due to the high volume of orders we receive we will be unable to cancel an order after submitted. Please order carefully.",
+					"5. Delivery",
+					"5.1 An estimated number of days for delivery will be provided after your order is placed. These dates vary due to carrier shipping practices, delivery location and the items you order. Products may be delivered in separate shipments. Any customs and taxes which may be charged by the relevant authorities in your country will be at your sole cost.",
+					"5.2 Dates for delivery are estimates only and are not guaranteed. We do not guarantee arrival dates or times. Time is not of the essence in relation to such dates. They are also subject to any matter beyond Our reasonable control including without limitation those events set out in paragraph 15.2. The delivery will be performed by the courier service company, which will be selected at Our sole discretion.",
+					"5.3 As a general rule, We will dispatch the Products to You on the same day as We accept Your order (subject to the Products being in stock) or the next working day if Your order is placed outside of our normal working hours. We charge for delivery and packaging. These delivery prices are detailed on the Website and are subject to change, depending on Your address, time of year, religious and/or national holidays, etc.",
+					"5.4 In most cases, orders will be delivered to You by special delivery, requiring a signature to confirm receipt. It is Your responsibility to ensure that there is someone at the delivery address to sign for the Products when delivered. Alternatively, it is Your responsibility to collect the Products from any postal collection depot and/or arrange an alternative delivery date if You are unavailable to sign for the Products.",
+					"5.5 We are not responsible for the Products and their safe delivery after they have left Our possession. If You have any issues regarding non-delivery, late delivery and/or damage to the Products during transit, You must take this up with the carrier. We will provide You with their details on your request.",
+					"6. Prices and payment",
+					"6.1 The price for Products and Services shall be as shown on the Website at the date of Our acceptance of Your order. All fees are payable in Euro currency. Prices for Products and Services could be changed without informing customers before the action of ordering. You agree to pay the current price at the time of placing the order.",
+					"6.2 Your shipment will be processed once we receive confirmation of payment.",
+					"6.3 Prices for the Products do not include applicable operating costs, and VAT that may be evaluated based on the amount of purchase, which You will be charged for in addition, according to the legislation of EU.",
+					"6.4 Customers may be charged Import Duties on shipments of Awaderm. These are charged by local Customs and are beyond our control. Any Import Duties are the responsibility of the customer.",
+					"6.5 If You do not agree to the price, do not proceed further with Your order. If We discover an error in the price of Products or Services You have ordered We will inform You as soon as possible and give You the option of either re-confirming Your order at the correct price or cancelling it. If We are unable to contact You, Your order will be cancelled. If You cancel an order due to an error in price and We have already received payment for the affected Products or Services, You will receive a full refund.",
+					"6.6 The price of Product is the set price at the time of purchase and may change from time to time if a new purchase is made. Under no circumstances will the price of today's purchase be a price guarantee of future unrelated purchases. The price does not include applicable shipping and handling costs as may be assessed based on quantity of purchase.",
+					"6.7 Payment is due at the time You place Your order: ",
+					"6.8 We will not accept Your order and the Contract will not be concluded until such time as We receive confirmation from Our credit card merchantthat Your payment has been authorized and/or We have received payment in full in cleared funds.",
+					"6.9 If for any reason payment in full is not made, We may withhold or suspend delivery of Products or, as the case may be, Services.",
+					"7. Property and risk",
+					"7.1 Risk in the Products shall pass to You at the time of delivery. Delivery shall be deemed to occur at the time when the Products are passed to Our nominated carriers.",
+					"8. Faulty Goods",
+					"8.1 If You discover that a Product is faulty, You must notify Us of the defect within 7 (seven) days of the date of delivery.",
+					"8.2 We may ask You to return the faulty Products to Us for inspection before We send You a replacement. If the Products are faulty, We will replace the faulty Product at no additional cost to You and refund any reasonable costs You may have incurred in returning the faulty Product to Us.",
+					"9. Return Policy",
+					"9.1 We take great pride in the superior quality of our products and want you to be pleased with your purchase. We believe in offering the very best value, quality and selection to our customers. You may return any unused and unopened item purchased from us for any reason within thirty (30) days of your purchase. ",
+					"Your complete satisfaction is our ultimate goal. You may return any item shipped by Awaderm, keeping the following in mind: ",
+					"You should return the item to us within 30 days of your purchase date.",
+					"We do not accept items back that have been opened or used. Opened Items are Non Refundable.",
+					"Shipping and Handling Fees are Non Refundable.",
+					"",
+					"",
+					"To request a refund you must obtain an RMA (Return Authorization). Requests must be made online and submitted with your order information and explanation of the why you wish to return the product. Please do not call for an RMA. If you return your product without a RMA number, you will not be refunded. Shipping and handling charges are non-refundable. For returns, you must carefully package the product, you are responsible for the cost of return shipping, and we must physically receive the return at our Fulfillment centre within the 30 day periodof your purchase date. We will provide you with the address of Fulfillment centre in the e-mail. Company reserves the right, at its sole discretion, to reject any return that does not comply with these requirements. Once your return has been received, Your refund will be credited back to your bank account, and may take up to 14 business days to show on your statement, depending on your bank's speed of processing.",
+					"9.2 Awaderm reserves the right to refuse to refund all customers who make repeated requests for refunds or who, in the opinion of Awaderm, requires refunds in bad faith.",
+					"10. Billing Errors",
+					"10.1 If you believe that you have been billed in error, please notify our customer service representative at the numbers ",
+					"+44 (160) 393-70-44",
+					"or sending e-mail at ",
+					"support.uk@awaderm.com ",
+					". If we do not hear from you within 30 days after such billing error first appears on any account statement, the billing will be deemed accepted by you for all purposes, including resolution of inquiries made by your credit card issuer. You are deemed to have released Company from all liabilities and claims of loss resulting from any error or discrepancy that is not reported to Company within thirty (30) days of its appearance on your credit card account statement.",
+					"11. Data Protection",
+					"11.1 You must register with Awaderm in order to access certain functions of the Website. You must provide current, complete and accurate information about yourself when registering. You agree that such information is truthful and complete. You agree to maintain and keep your personal information current and will update your information as necessary. Without your true information, Awaderm cannot be held responsible for any sign-in or access issues. Once you have completed filling in your personal and payment information and staying “rush my order” box, you have provided your approval and electronic signature for this Terms, and thus, authorization is received. Only then can the charge initiation be confirmed.",
+					"11.2 We store your personal information on our computers, and we believe we have appropriate security measures in place to protect your personal information. However, we cannot guarantee our security measures will prevent our computers from being accessed without authorization and your personal information stored on them stolen, deleted or changed. We assume no responsibility for such unauthorized actions.",
+					"11.3 When You use Our Website, You will be asked to provide certain personal information such as Your name, address, email address, phone number, contact details, credit/debit cards or other payment details, etc. We will store the data You provide to Us on computers or otherwise, except financial information, such as credit/debit cards details or other payment details, which will be passed to third parties, namely to Our chosen credit card merchant services provider ( payment processor) . The purposes for which Your personal data will be processed are set out in this Terms.",
+					"11.4 We will comply with the requirements of all data protection legislation in force. In particular, You may request a copy of any personal data We hold about You upon written application. Please note that We reserve the right to charge the current statutory fee for providing You with such information.",
+					"11.5 We will process Your personal data in an ethical manner. It will be used for the following purposes:",
+					"11.5.1 to process Your order;",
+					"11.5.2 where applicable, to administer Your membership of the Website;",
+					"11.5.3 to administer Our Website services which may involve sharing information with Our services providers;",
+					"11.5.4 to administer Our business;",
+					"11.5.5 for assessment and analysis (e.g. market, customer, product analysis) to enable Us to review, develop and improve the services which We offer and to enable Us to provide You with relevant information through Our marketing information;",
+					"11.5.6 to notify You by email or telephone of any Products that We think may be of interest to You unless You inform Us that You do not wish to receive such information.",
+					"11.6 We may also disclose Your information to anyone to whom We transfer or may transfer Our business and/or Our rights and duties under the Contract with You or to any regulatory or government authority where We are legally required to do so.",
+					"11.7 If You do not wish Us to notify You by post of any additional products or services that We think may be of interest to You, please inform us by calling or sending e-mail.",
+					"11.8 We try to ensure that all data we hold about our customers is up to date and correct. Therefore, if any of your personal details change, please let Us know by calling us or sending e-mail.",
+					"12. Limitation of Liability",
+					"12.1 We shall have no Liability to You for any loss of profit, business, revenue or income, loss of anticipated savings, lost data, damage to goodwill, business interruption, economic and/or other loss which, at the time You entered in to this Contract was not a reasonably foreseeable consequence of Us breaching these Terms and conditions, for example, if You and/or We could not have contemplated such losses before or when we entered into a Contract.",
+					"12.2 We do not guarantee that the Website will be compatible with Your PC and We accept no Liability for any violation and/or loss of data held on Your PC, or any Liability for any other loss or damage of any kind caused to Your PC resulting from use of the Web Site.",
+					"12.3 By placing a order, you agree that we and our owner(s), parent, subsidiaries, affiliates, agents, representatives, and employees will have no liability whatsoever for any injuries, losses, claims, damages or any special, exemplary, punitive, indirect, incidental or consequential damages of any kind, whether based in Contract, tort, strict liability or otherwise, resulting from any use of the Website, the product or any service offered on this Website, any failure or delay by us in connection with the web site, the product or any service offered on this Website, the performance or non-performance of the Website, the product or any service offered on this Website even if we have been advised of the possibility of damages. This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation, computer virus, communications line failure, theft or destruction, or unauthorized access to, alteration of, or use of your information. Notwithstanding this disclaimer, if we are found liable for any loss or damage which arises out of, or is in any way connected with, any of the occurrences described in this paragraph, then our liability will in no event exceed, in total, the sum of USD 100.00 (one hundred US dollars).",
+					"13. Indemnification",
+					"13.1 You agree to defend, indemnify and hold harmless ",
+					"Awaderm ",
+					", its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms or your use of the Product, including, but not limited to any use of the web site's content, services and products other than as expressly authorized in these Terms or your use of any information obtained from the web site.",
+					"14. Limitation of Time to File Claims",
+					"14.1 Any pretension you may have arising out of or relating to this Terms or the Website must be asserted pursuant to this Terms within one (1) year after the cause of pretension accrues, otherwise, such claim is permanently barred. If you have any pretension, kindly send it at the e-mail ",
+					"support.uk@awaderm.com",
+					"15. General",
+					"15.1 If any provision of these Terms is held by any competent authority to be invalid or unenforceable in whole or in part the validity of the other provisions of these terms and conditions and the remainder of the affected provision shall be unaffected and shall remain in full force and effect.",
+					"15.2 We shall have no Liability to You for any delay in performance to the extent that such delay is due to any event outside Our reasonable control including acts of God, denial of service attacks, internet disruption, non-performance by suppliers or subcontractors, war, flood, fire, labor disputes, sub-contractor delays, strikes, lock outs, riots, civil commotion, malicious damage, explosion, governmental action and any other similar events. If We are affected by any such event then time for performance shall be extended for a period equal to the period that such event or events delayed such performance.",
+					"15.3 All third party rights are excluded and no third party shall have any right to enforce a Contract. Any rights of a third party to enforce this Contract may be varied and/or extinguished by agreement between the parties.",
+					"15.4 Notwithstanding Your rights set out above, if You are unsatisfied with any aspects of the Services and/or Products that We have provided to You or have any queries or comments regarding these, please contact Us by calling ",
+					"+44 (160) 393-70-44 ",
+					"or sending e-mail at ",
+					"support.uk@awaderm.com",
+					"16. Content Disclaimer",
+					"16.1 The information on the Website is intended solely as a general educational aid. It's not intended as a substitute for professional advice and services from a qualified healthcare provider familiar with your unique facts. Always see the advice of your physician or other qualified healthcare provider regarding any medical condition before using the Product.",
+					"17. LEGAL DISCLAIMERr",
+					"17.1 Warning - The safety of this product has not been determined.",
+					"17.2 Consult with your physician for diagnosis or treatment. Use Products as per instructions and always watch for any allergic reactions. This product is formulated to be a dietary supplement and is not intended to be a replacement for a varied diet. All individuals, regardless of health condition, should consult their physician before starting a new dietary regiment.This product is only intended for use by individuals 18 years of age or over.",
+					"17.3 The information presented on this site is not presented with the intention of diagnosing any disease or condition or prescribing any treatment. It is offered as information only, for use in the maintenance and promotion of good health in cooperation with a licensed medical practitioner.",
+					"17.4 In the event that any individual should use the information presented on this website without a licensed medical practitioner's approval, that individual will be diagnosing for him or herself.",
+					"17.5 No responsibility is assumed by the author, publisher or distributors of this information should the information be used in place of a licensed medical practitioner's services. No guarantees of any kind are made for the performance or effectiveness of the preparations mentioned on this website. Furthermore, this information is based solely on the traditional and historic use of a given herb, or on clinical trials that are generally not recognized by a government agency or a medical organization.",
+					"17.6 This information has not been evaluated by the Food and Drug Administration, nor has it gone through the rigorous double-blind studies required before a particular product can be deemed truly beneficial or potentially dangerous and prescribed in the treatment of any condition or disease.",
+					"18. Modification or Suspension of Web Site",
+					"18.1 You agree that" ,
+					"Awaderm ",
+					", in its sole and absolute discretion, may make, and at any time, modify, alter, discontinue, or suspend its operation of this Website, or any part thereof, temporarily or permanently, without notice to you, and you agree that ",
+					"Awaderm ",
+					"will not be liable for the consequences of doing so.",
+					"19. Ownership and Protection of Intellectual Property",
+					"19.1 The Website and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by Awaderm, its licensors or other providers of such material. These Terms permit to use the web site and order Product for your personal, non-commercial use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on our web site, except to store copies of such materials in RAM incidental to your accessing and viewing those materials or store files that are automatically cached by your Web browser for display enhancement purposes. The company and any product names, such as Awaderm, and all related names, logos, products and service names, design and slogans are trademarks of Awaderm us or its affiliates or licensors. You must not use such marks without the prior written permission of Awaderm. All other names, logos, product and services names, designs and slogans on this web site are the trademarks of their respective owners.",
+					"20. Links",
+					"20.1 The Website may provide links to other World Wide Web sites or resources. Awaderm has not reviewed these websites and is not responsible for the accuracy, content, privacy policies or availability of information found on websites that link to or from any Awaderm Website. Awaderm cannot ensure that you will be satisfied with any products or services that you purchase from a third-party site that links to or from any Awaderm Website or third-party content on our sites. Awaderm does not endorse any of the merchandise, nor has Awaderm taken any steps to confirm the accuracy or reliability of any of the information contained in any third-party sites or content. Awaderm does not make any representations or warranties as to the security of any information (including, without limitation, credit card, and other personal information) You might be requested to give any third party, and You hereby irrevocably waive any claim against Awaderm with respect to such sites and third-party content. Awaderm strongly encourages you to make whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of third parties. Neither Awaderm nor its affiliates, officers, directors, shareholders, employees, independent contractors, telecommunications providers, or agents shall be liable for any damages, including but not limited to direct, indirect, incidental, consequential, or punitive damages arising out of your use of third-party material or third-party. Deep linking to internal pages of this Website is expressly prohibited without prior written consent from Awaderm.",
+					"21. HERBAL SAFETY GUIDELINES",
+					"Before using a supplement you are unfamiliar with, find out its medicinal properties. Research it thoroughly and/or consult with an appropriately qualified practitioner or expert. If you are taking prescription drugs, or have a medical condition check with an appropriately qualified practitioner before using herbs medicinally. Supplement have shown overwhelming evidence that they work. !!!!! Just because a small amount works well does NOT mean that more is better. As individuals we all have different constitutions, sensitivities, allergic reactions and possible health conditions. The following are merely guidelines. They include herbs offered on our websites. This list does not help with administering information on possible interactions and contraindications with prescription medicine. This needs to be discussed with your physician.",
+					"Please be aware that the Product works differently for different users. You may not experience immediate results.",
+					"Should I check with my doctor or healthcare provider before using a supplement?",
+					"This is a good idea, especially for certain population groups. Supplements may not be risk-free under certain circumstances. If you have a chronic medical condition, such as, diabetes, hypertension or heart disease, be sure to consult your doctor or pharmacist before purchasing or taking any supplement. While vitamin and mineral supplements are widely used and generally considered safe, you may wish to check with your doctor or pharmacist before taking these or any other supplements. If you plan to use a supplement in place of drugs or in combination with any drug, tell your health care provider first. Many supplements contain active ingredients that have strong biological effects and their safety is not always assured in all users. If you have certain health conditions and take these products, you may be placing yourself at risk.",
+					"In each case before using Awaderm seek advice from a health practitioner before use it.",
+					"5.6. You may familiarize with a list of countries to which the delivery is provided, while completing Your Order form."
+				],
+				"privacy": [
+					"privacy policy",
+					"This privacy statement discloses the privacy practices for ",
+					"Awaderm operated by ABIRIX LIMITED ",
+					"(hereinafter –also referred to as “Company” or “We”). We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. If you believe that ",
+					"Awaderm ",
+					"is not abiding by our posted privacy policy, please contact us.",
+					"By using this Website, you agree with the terms of this Privacy Policy. Whenever you submit information via this Website, you consent to the collection, use, and disclosure of that information in accordance with the Privacy Policy. ",
+					"Remember that the information provided by this Website is for general background purposes and is not intended to be used in connection with, or as a substitute for, medical diagnosis or treatment by a trained professional. You should always consult your own physician about any healthcare questions you may have, especially before trying a new medication, diet, fitness program, or approach to health care issues. ",
+					"Information Collection and Use ",
+					"Awaderm",
+					"is the sole owner of the information collected on this Website. Your privacy is important to us. We will never trade, lease or sell your e-mail address or personal information. No personal information will be shared with any third parties without the customer's permission.",
+					"Order",
+					"Awaderm",
+					"request information from the customers/users on the order form when making a purchase. To make the order you should provide your contact information, such as name and postal address, e-mail address, telephone number, and financial information, such as credit card number and expiration date, etc. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with you.",
+					"How We Use Your Information",
+					"Awaderm",
+					"use information that we collect about you or that you provide to us, including any personal information: ",
+					"To present our Website and its contents to you.",
+					"To provide you with information, products or services that you request from us.",
+					"To fulfill any other purpose for which you provide it.",
+					"To provide you with notices about your account/subscription, including expiration and renewal notices.",
+					"To process Your order.",
+					"Where applicable, to administer Your membership of the Website.",
+					"To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.",
+					"To notify you about changes to our Website or any products or services we offer or provide though it.",
+					"To allow you to participate in interactive features on our Website.",
+					"In any other way, we may describe when you provide the information.",
+					"For any other purpose with your consent.",
+					"Children’s Privacy",
+					"This Website is not intended for people under the age of 18. We never collect or maintain information at the Website from the persons we are informed in a proper way to be under 18. We do not knowingly collect personal information from persons under the age 18. If you are under 18, do not use or provide any information on this Website, make any purchase through the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address and any other information. If you believe we might have received any information from or about a person under age 18, please contact us at ",
+					"support.uk@awaderm.com",
+					"Cookies",
+					"A cookie is a piece of data stored on the user's hard drive containing information about the user. We use both session and persistent cookies. Usage of a cookie from our site is in no way linked to any personally identifiable information. Cookies enable us to track and target the interests of our users in the aggregate by analyzing popular areas and products to enhance future experiences on our Website.",
+					"Usage Tracking",
+					"Awaderm",
+					"database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and # of clicks to analyse trends, administer the site, track user's movement in the aggregate. The statistics help us decide which products and services best serve our members and guests.",
+					"Aggregate Information",
+					"Awaderm",
+					"uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with partners of ",
+					"Awaderm",
+					"to plan advertising or promotions. We do not share any personally identifiable information.",
+					"Log Files",
+					"Awaderm",
+					"uses IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our web servers automatically log standard access information including browser type, access times/open mail, URL requested, and referral URL. This information is not shared with third parties and is used only within ",
+					"Awaderm",
+					"on a need-to-know basis. Any individually identifiable information related to this data will never be used in any way different to that stated above without your explicit permission.",
+					"Sharing",
+					"Awaderm",
+					"uses a partner postage companies to ship orders, companies, which provides fulfilment services and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.",
+					"Links from this website",
+					"We do not monitor or review the content of other party’s websites which are linked to from this website. Opinions expressed or material appearing on such websites are not necessarily shared or endorsed by us and should not be regarded as the publisher of such opinions or material. This Privacy Policy will not apply to such third-party websites and ",
+					"Awaderm",
+					"is not responsible for the privacy practice or the content on any of these other websites, even where these third-party sites indicate a special relationship with this Website. Please be aware that we are not responsible for the privacy practices, or content, of any third parties’ sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these sites. You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to them. We will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information. To ensure protection of your privacy, always review the privacy policies of the websites you visit by linking from this Websites.",
+					"Security of Information",
+					"You can be assured that personal information collected through the Website is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected ",
+					"Awaderm",
+					"employees and contractors have access to via password. In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. ",
+					"Unfortunately, no data transmission over the internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. Moreover, where you use passwords, ID numbers, or other special access features on this Website, it is your responsibility to safeguard them.",
+					"Disclose of Information",
+					"Awaderm",
+					"may disclose information to contractors, service providers and other third parties Awaderm use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them. ",
+					"To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of ",
+					"Awaderm",
+					"assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by ",
+					"Awaderm",
+					"about this Website users is among the assets transferred.",
+					"For any other purpose disclosed by us when you provide the information with your consent.",
+					"Awaderm",
+					"may disclose to enforce or apply our terms of use and other agreements, including for billing and collection purposes. We may also share your information with third-party Fulfillment centres, third-party marketers, and third-party customer service providers.",
+					"Awaderm",
+					"may disclose information when it determines that it is necessary to comply with applicable laws and regulations and protect the interests or safety of our business, customers, or other visitors to the Website. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.",
+					"Special Offers",
+					"Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications.",
+					"Correcting/Updating/Deleting/Deactivating",
+					"If a user's personally identifiable information changes (such as your post code, phone, email or postal address, etc.), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by contacting Customer Support.",
+					"Notification of Changes",
+					"The Company reserves the right to change these conditions from time to time as it sees fit and your continued use of the Website will signify your acceptance of any adjustment to these terms. Any changes to our privacy policy will be posted on our web site 15 days prior to these changes taking place. You are therefore advised to re-read this statement on a regular basis",
+					"These terms and conditions form part of the Agreement between the Client and Awaderm. Your accessing of this Website and/or ordering products/services indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected.",
+					"If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this Website, please contact us at: ",
+					"support.uk@awaderm.com ",
+					"+44 (160) 393-70-44 ",
+					"(e-mail, telephone)"
+				],
+				"contact": [
+					"contact us",
+					"Email Customer Service is available 24 hours a day at: ",
+					"support.uk@awaderm.com",
+					"Customer Service is available 5 days a week, from 9:00 to 17:00 (CET) at: GB",
+					"+44 (160) 393-70-44",
+					"ABIRIX LIMITED",
+					"registration number HE 369738",
+					"address: Spyrou Kyprianou,61 SK HOUSE, 4003, Limassol, Cyprus"
+				],
+				"description": [
+					"Description of Product",
+					"Awaderm",
+					"RECOMMENDED USE:",
+					"With clean, dry hands, apply small amount to concerned area and massage gently until absorbed. Reapply as needed or desired.",
+					"Caution:",
+					"For external use only. Do not ingest. Keep out of reach of children. Avoid contact with eyes. Keep away from light and store in a dry place.",
+					"FOOD SUPPLEMENT:",
+					"50 ml",
+					"Batch number/Best before date: see tube joint.",
+					"SUPPLEMENT FACTS:",
+					"Gel, 50 ml",
+					"INGREDIENTS:",
+					"Aqua, Glycerin, Benzyl Alcohol, Carbomer, Phenoxyethanol, Sodium Hydroxide, Melaleuca Alternifolia Leaf Oil, Citrus Limon Peel Oil, Lavandula Hybrida Oil, Limonene, Linalool, Trigonella Foenum-Graecum Seed Extract, Paullinia Cupana Seed Extract, Paraffinum Liquidum, Cinnamomum Zeylanicum Bark Extract, Maltodextrin, Prunus Armeniaca Kernel Oil, Citral, Tilia Tomentosa Extract.",
+					"FREE FROM:",
+					"Artificial colours, flavours, sweeteners, soya, gluten, wheat, yeast or porcine.",
+					"ABIRIX LIMITED, Spirou Kyprianou, 61 SK HOUSE, 4003, Limassol, Cyprus. Awaderm.com",
+					"Made in France"
+				]
+			}
+		],
+		"refund": [
+			"We sure you'll be pleased and we 100% guarantee you refund if not.",
+			"Our company is based on principles of safety and accuracy. Therefore every client is important to us. Our deeds speak louder than words so we absolutely guarantee that all our products are 100% natural and have passed all required clinical tests. My family and I are also customers of our service because we’re responsible for the selection. So if you have any complaints or suggestions about our work or our service we’re ready to look into it and fix it, right up to totally refunding your purchase price. Read more about the advantages of buying a product with a warranty and conditions of refund in terms & conditions.",
+			"Sandra Welling",
+			"Head of Quality Department"
+		],
+		"order_products_common":[
+			"selected package",
+			"Retail price:",
+			"Free shipping",
+			"per",
+			"bottle",
+			"included",
+			"30 days refund guarantee",
+			"2 persons are ordering this package"
+		],
+		"product_items": [
+			{
+				"common":[
+					{
+						"shipping": "Free shipping",
+						"price_text": "retail price:",
+						"select": "select package",
+						"rating_title": "EFFICIENCY IN USE",
+						"persons": "2 persons are ordering this package",
+						"ordernow": [
+							"order now",
+							"for free shipping"
+						],
+						"include": [
+							"INCLUDED",
+							"30 days refund guarante"
+						],
+						"page_title": [
+							"Back to Step 1",
+							" your package reserved!"
+						],
+						"sense": [
+							"WNBF:",
+							"",
+							"“Currently, the most effective solution known!”"
+						],
+						"per_bottle": [
+							"per",
+							"bottle"
+						]
+					}
+				],
+				"product_1":[
+					{
+						"title": "Get your 2 month supply",
+						"name": "Starter",
+						"package": "Package",
+						"package_val": "Starter",
+						"description": "",
+						"pcs": "pcs",
+						"pcs_val": "2",
+						"pcs_val_mobile": "1",
+						"rating_val": "4.2",
+						"list": [
+						"<span><strong>Increase your endurance </strong><br> <small>- basic start</small></span>"
+						],
+						"image": "../common/img/common/product/product_start.png",
+						"image_mobile": "../common/img/common/product/product_start_mobile.png",
+						"avatar": "../common/img/common/product_avatar_1.png",
+						"avatar_big": "../common/img/common/product_avatar_card_1.png"
+					}
+				],
+				"product_2":[
+					{
+						"title": "Get your 6 month supply",
+						"name": "Best Results ",
+						"package": "Package",
+						"package_val": "Best Results",
+						"description": "(All 3 steps)",
+						"pcs": "pcs",
+						"pcs_val": "6",
+						"pcs_val_mobile": "5",
+						"rating_val": "4.8",
+						"list": [
+							"<span><strong>Increase your endurance </strong><br> <small>- basic start</small></span>",
+							"<span><strong>Increase muscle mass </strong><br> <small>- enhance your physical activity by 30%</small></span>",
+							"<span><strong>Improve masculinity & fix the result </strong><br> <small>- boost strength and libido by 70%</small></span>"
+						],
+						"image": "../common/img/common/product/product_pro.png",
+						"image_mobile": "../common/img/common/product/product_pro_mobile.png",
+						"avatar": "../common/img/common/product_avatar_2.png",
+						"avatar_big": "../common/img/common/product_avatar_card_2.png"
+					}
+				],
+				"product_3":[
+					{
+						"title": "Get your 4 month supply",
+						"name": "Optimal",
+						"package": "Package",
+						"package_val": "Optimal",
+						"description": "(2 steps)",
+						"pcs": "pcs",
+						"pcs_val": "4",
+						"pcs_val_mobile": "3",
+						"rating_val": "4.7",
+						"list": [
+							"<span><strong>Increase your endurance </strong><br> <small>- basic start</small></span>",
+							"<span><strong>Increase muscle mass </strong><br> <small>- enhance your physical activity by 30%</small></span>"
+						],
+						"image": "../common/img/common/product/product_age.png",
+						"image_mobile": "../common/img/common/product/product_age_mobile.png",
+						"avatar": "../common/img/common/product_avatar_3.png",
+						"avatar_big": "../common/img/common/product_avatar_card_3.png"
+					}
+				]
+			}
+		],
+		"offer_1_list":[
+			{
+				"common":{
+					"retail": "Retail price:",
+					"per_bottle": [
+						"per",
+						"bottle"
+					],
+					"best_val":"Best value!",
+					"select":"selected package"
+				},
+				"offer_1": {
+					"title": "Buy 3 month supply, ",
+					"get": "Get 2 for free!",
+					"order": "Order now for",
+					"shipping": "free shipping!",
+					"image": "../common/img/common/product/offer_1/product_1.png"
+				},
+				"offer_2": {
+					"title": "Buy 2 month supply, ",
+					"get": "Get 1 for free!",
+					"order": "Order now for",
+					"shipping": "free shipping!",
+					"image": "../common/img/common/product/offer_1/product_2.png"
+				},
+				"offer_3": {
+					"title": "Buy 1 month supply, ",
+					"get": "Get 1 for free!",
+					"order": "Order now for free shipping!",
+					"shipping": "free shipping!",
+					"text": [
+						"Get started for",
+						"our lowest price ever!"
+					],
+					"image": "../common/img/common/product/offer_1/product_3.png"
+				}
+			}
+		],
+		"offer_2": {
+			"title":[
+				"Buy 1",
+				"st",
+				"get 1 free!"
+			],
+			"text": [
+				"Don’t lose your chance",
+				"to regain youth!"
+			],
+			"total": "total",
+			"price": "price",
+			"price_text":"Get a free bottle for starting today!",
+			"slogan": "Relish your youth again!",
+			"image": "../common/img/common/product/offer_2/product_1.png",
+			"bg": "../common/img/common/product_avatar_offer_final.png"
+		},
+		"upsell": {
+			"popup_title": "Thank you for your purchase! Don't miss our special offer: ",
+			"popup_offer": "Special offer ",
+			"product_title": "To increase your self-confidence in your masculinity , ",
+			"product_desc": "use Awaderm Booster combined with LIBOMAX, which  raises natural testosterone levels, boosts exercise-led \"aggression\" and significantly increases libido!",
+			"product_name": "Awaderm Booster",
+			"product_subname": "A nutritional supplement that boosts the body's production of testosterone ",
+			"discount": [
+				"Up to",
+				"%",
+				"off"
+			],
+			"price_save": "Save up to ",
+			"price_description": "For customers who have already bought LIBOMAX, there is a <strong>50% discount</strong> on the purchase of Awaderm Booster",
+			"timer_title": "Offer Time Expires",
+			"button": "take a closer look",
+			"button_short": "Purchase now"
+		}
+	}]
+}

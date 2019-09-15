@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="gb">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1" id="viewport">
+    <link rel="stylesheet" href="css/gb/app.css">
+    <link rel="stylesheet" href="css/gb/common.css">
+    <title>Awaderm </title>
+  </head>
+  <body class="lang_gb page_home page_cod2">
+    <div class="page_wrapper">
+      <div class="warning_block">
+        <div class="wrapper">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="warning">
+                  <p> <span>Attention: </span>Because of all the media attention we have limited stock. As of  <i class="date"></i> only 23 items are still available. </p>
+                  <div class="close"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="greeting">
+        <div class="leaf1"></div>
+        <div class="leaf2"></div>
+        <div class="leaf3"></div>
+        <div class="wrapper">
+          <div class="container">
+            <div class="product_name">Awaderm </div>
+            <div class="title">Get Rid of Wrinkles in <span>21 Days</span></div>
+            <div class="subtitle">Without Injections and Surgeries</div>
+            <div class="nope">Awaderm Cream with a natural Filagrinol complex</div>
+            <div class="product_box_mobile">
+              <div class="product"><img src="img/common/product.png" alt="">
+                <div class="icons">
+                  <div class="icon_1"></div>
+                  <div class="icon_2"></div>
+                  <div class="icon_3"></div>
+                </div>
+              </div>
+            </div>
+            <div class="form_part">
+              <div class="list_box">
+                <ul>
+                  <li>
+                    <p><span>Elimination of up to 99%  </span>of wrinkles within one course</p>
+                  </li>
+                  <li>
+                    <p><span>20% reduction </span>in the appearance of wrinkles during the first 3 days of use alone</p>
+                  </li>
+                  <li>
+                    <p><span>Targets all areas  </span>with wrinkles</p>
+                  </li>
+                  <li>
+                    <p><span>Smooths out </span>even deep wrinkles</p>
+                  </li>
+                  <li>
+                    <p><span>Safe and natural, </span>the atest scientific development in skin care</p>
+                  </li>
+                </ul>
+                <div class="icons">
+                  <div class="icon_1"></div>
+                  <div class="icon_2"></div>
+                  <div class="icon_3"></div>
+                </div>
+              </div>
+              <div class="form_box" id="form2">
+                <div id="scroll_to_form"></div>
+                <div class="top_part">
+                  <div class="arrow_price">
+                    <div class="old_price">
+                      <div class="desc">retail:</div>
+                      <div class="value"><span><?=$currency?><?=$price['values']['price2']?></span></div>
+                    </div>
+                    <div class="new_price">
+                      <div class="value">
+                        <div class="new_price_count"><?=$currency?><?=$price['values']['amo_total_main_price']?>
+                          <div class="label_new"><span>New!</span></div>
+                        </div>
+                        <div class="box">
+                          <p><span class="plus">+</span><span class="free">Fast </span></p>
+                          <p><span class="regular">Shipping</span></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="timer" data-timer>
+                    <div class="unit hours" data-pattern="{hnn}">
+                      <div class="value">00</div>
+                      <div class="desc">hours</div>
+                    </div>
+                    <div class="unit minutes" data-pattern="{mnn}">
+                      <div class="value">00</div>
+                      <div class="desc">minutes</div>
+                    </div>
+                    <div class="unit seconds" data-pattern="{snn}">
+                      <div class="value">00</div>
+                      <div class="desc">seconds</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="bottom_part">
+                  <div class="form_title">Order Now</div>
+                  <form class="form" id="ajax_form_cod_2" action="" data-errorname="<?=$text['cod_form']['fields_placeholder'][0]?> <?=$text['order_form']['errors']['valid']?>" data-errorphone="<?=$text['cod_form']['fields_placeholder'][1]?> <?=$text['order_form']['errors']['valid']?>">
+                    <input type="hidden" name="user_ip" value="<?=$_SERVER['REMOTE_ADDR']?>">
+                    <input type="hidden" name="session_id" value="<?=$_GET['session'] ?? ''?>">
+                    <input type="hidden" name="aff_id" value="<?=$_GET['aff_id'] ?? ''?>">
+                    <input type="hidden" name="aff_sub" value="<?=$_GET['aff_sub'] ?? ''?>">
+                    <input type="hidden" name="aff_sub2" value="<?=$_GET['aff_sub2'] ?? ''?>">
+                    <input type="hidden" name="aff_sub3" value="<?=$_GET['aff_sub3'] ?? ''?>">
+                    <input type="hidden" name="aff_sub4" value="<?=$_GET['aff_sub4'] ?? ''?>">
+                    <input type="hidden" name="aff_sub5" value="<?=$_GET['aff_sub5'] ?? ''?>">
+                    <select class="county_select" name="country">
+                      	<?php foreach ($text['cod_country'] as $key => $value) { ?>
+                      	<?php echo '<option value="'.$value['domain'].'">'.$value['name'].'</option>'; ?>
+                      	<?php } ?>
+                    </select>
+                    <div class="field name">
+                      <input type="text" data-error-name="Name" name="name" placeholder="Name:">
+                    </div>
+                    <div class="field phone">
+                      <div class="phone_code">
+                        <input class="code" type="text" name="phone_code" placeholder="1234">
+                      </div>
+                      <input type="text" data-error-name="Phone" name="phone" placeholder="123-124-1224">
+                    </div>
+                    <button class="submit_form" type="submit"><span class="big">Order Now</span></button>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="tv_part">
+              <div class="product"><img src="img/common/product.png" alt=""></div>
+              <div class="as_seen">
+                <div class="caption">As seen on TV: </div>
+                <ul>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="wrinkles">
+        <div class="wrapper">
+          <div class="container">
+            <div class="title"><span>Wrinkles Give Away Your Age  </span>and Make You Unattractive </div>
+            <div class="main_part">
+              <div class="item">
+                <div class="value">89% </div>
+                <div class="desc"><span>of men consider wrinkles </span>to be a sign of old age and withering of a woman.</div>
+              </div>
+              <div class="item">
+                <div class="value">76% </div>
+                <div class="desc"><span>of men do not consider women, </span>whose face are covered in wrinkles, sexually attractive</div>
+              </div>
+              <div class="item">
+                <div class="value">85% </div>
+                <div class="desc"><span>of divorces and husbands’ cheating </span>occur due to the woman becoming unattractive</div>
+              </div>
+              <div class="item">
+                <div class="value">98%</div>
+                <div class="desc"><span>of women think that wrinkles </span>are their main problem when taking care of themselves</div>
+              </div>
+              <div class="item">
+                <div class="value">94% </div>
+                <div class="desc"><span>of employers will not offer </span>a position or a promotion to a woman who looks older than 40</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="fighting">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="leaf2"></div>
+          <div class="leaf3"></div>
+          <div class="leaf4"></div>
+          <div class="leaf5"></div>
+          <div class="container">
+            <div class="nope"><span>The worst thing is, the number of wrinkles will only grow. </span>If your skin started to age, with time, this process will become avalanche-like. This is why it is so important to restore youth and skin health as early as possible!</div>
+            <div class="title">Awaderm is the First Universal Cream Aimed at <span>Fighting All Types of Wrinkles</span></div>
+            <div class="subtitle">Recommendations on <span>Age-related </span>Application:</div>
+            <div class="main_part">
+              <div class="item">
+                <div class="icon icon_1">
+                  <div class="age">25+</div>
+                </div>
+                <div class="description">
+                  <div class="caption">Women who are <span>only beginning </span>to have wrinkles.</div>
+                  <div class="text">
+                    <p>Awaderm restores skin health and elasticity, preventing wrinkles from appearing on a cell level. The earlier women begin to use it, the greater effect is achieved in preserving youth.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="icon icon_2">
+                  <div class="age">30+</div>
+                </div>
+                <div class="description">
+                  <div class="caption">Women who <span>already have wrinkles </span>increasing in number.</div>
+                  <div class="text">
+                    <p>Awaderm stops skin cell deformation, increasing the production of collagen and elastin. This allows to delay the appearance of a multitude of wrinkles and to eliminate the existing ones.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="icon icon_3">
+                  <div class="age">40+</div>
+                </div>
+                <div class="description">
+                  <div class="caption">Women who are <span>have many deep </span>wrinkles.</div>
+                  <div class="text">
+                    <p>Awaderm features an accumulative effect. When used regularly, it is capable of smoothing out skin and eliminating even deep wrinkles. Elimination of 99% of wrinkles is the proved effect of the cream. Aside from that, Awaderm takes into consideration the hormonal change in mature women.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="images_part">
+              <div class="white_bg"></div>
+              <div class="product_part">
+                <div class="product"><img src="img/common/product.png" alt=""></div>
+              </div>
+              <div class="button_part">
+                <div class="icons">
+                  <div class="icon_1"></div>
+                  <div class="icon_2"></div>
+                  <div class="icon_3"></div>
+                </div><a class="thx_button scroll_to_button" href="#scroll_to_form"><span>Order Now</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="problems">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="container">
+            <div class="problems_image"><img src="img/common/problems_image.png" alt="">
+              <ul class="dots">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+              <canvas id="imageView"></canvas>
+            </div>
+            <div class="problems_main">
+              <div class="title"><span>Skin Problems </span>That Awaderm Helps to Deal With</div>
+              <ul class="problems_list">
+                <li>
+                  <p><span>Wrinkles on the forehead </span>and between the eyebrows</p>
+                </li>
+                <li>
+                  <p><span>Wrinkles around the eyes,  </span>‘crow’s feet’ </p>
+                </li>
+                <li>
+                  <p><span>Nasolabial </span>folds</p>
+                </li>
+                <li>
+                  <p><span>‘Bags’ </span>under the eyes</p>
+                </li>
+                <li>
+                  <p><span>Loss of shape, </span>jowls</p>
+                </li>
+                <li>
+                  <p><span>Pigmentation</span></p>
+                </li>
+                <li>
+                  <p><span>Enlarged </span>pores</p>
+                </li>
+                <li>
+                  <p><span>Wrinkles on the neck </span>and chin</p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="botox">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="leaf2"></div>
+          <div class="leaf3"></div>
+          <div class="container">
+            <div class="title"><span>Botox Effect, But Without Injections! </span>Why Is Awaderm Better Than Other Methods Of Restoring Youth? </div>
+            <div class="main_part">
+              <div class="item">
+                <div class="icon icon_1"></div>
+                <div class="caption"><span>Cosmetic face lifting  </span>(injections, surgeries, thread lifting)</div>
+                <div class="text">
+                  <p>does not always have the expected result. It can disfigure a woman’s face for good. Infections, paralysis, scars, wrong symmetry and skin cancer are all well known consequences of such procedures.</p>
+                </div>
+              </div>
+              <div class="item">
+                <div class="icon icon_2"></div>
+                <div class="caption"><span>Physical procedures </span>(peeling, lifting, mesotherapy, etc.)</div>
+                <div class="text">
+                  <p>Rejuvenation with the help of physical procedures requires a serious financial investment. And since such procedures have to be performed constantly, they become heavy on the family’s budget.</p>
+                </div>
+              </div>
+              <div class="item">
+                <div class="icon icon_3"></div>
+                <div class="caption"><span>Expensive creams  </span>and serums.</div>
+                <div class="text">
+                  <p>Despite having an impressive composition, they cannot penetrate the deeper layers of skin, since 97% of biologically active substances stay in the epidermis. Because of this, even if they give a result, it’s insignificant.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="experts">
+        <div class="wrapper">
+          <div class="container">
+            <div class="title"><span>More Than 3,000 Users Have Confirmed </span>That Awaderm Helps to Deal With All Signs of Skin Withering.</div>
+            <div class="main_part">
+              <div class="left_part">
+                <div class="text">
+                  <p>The important difference of Awaderm from creams of the previous generation is the fact that it is manufactured with the use of the newest technology that is able disintegrate biologically active substances to a microscopic size. <span>As a result, they easily penetrate the skin and end up in the inner skin layers, providing useful effects. </span></p>
+                  <p>Awaderm is a truly revolutionary scientific invention. It is extremely effective, a fact which has been proven by scalable clinical research. If you wish to get rid of your existing wrinkles, prevent new ones from appearing, and improve the general state of your skin, I recommend that you use Awaderm cream.</p>
+                </div>
+                <div class="name"><span>Name and Surname,  </span>a celebrity cosmetologist with more than 25 years of experience in the beauty industry </div>
+              </div>
+              <div class="right_part">
+                <div class="top_line">
+                  <div class="item before">
+                    <div class="desc">before</div>
+                    <div class="icon_skin"></div>
+                    <div class="icon_wrinkles">
+                      <div class="icon_desc">wrinkles</div>
+                    </div>
+                  </div>
+                  <div class="item after">
+                    <div class="desc">after</div>
+                    <div class="icon_skin"></div>
+                    <div class="icon_wrinkles">
+                      <div class="icon_desc">smooth skin</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="contents">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="leaf2"></div>
+          <div class="leaf3"></div>
+          <div class="leaf4"></div>
+          <div class="leaf5"></div>
+          <div class="container">
+            <div class="title">
+              <p><span>100% Natural Contents - </span>More  </p>
+              <p>Than 50 Biologically Active Substances!</p>
+            </div>
+            <div class="main_part">
+              <div class="item">
+                <div class="icon_1"></div>
+                <div class="caption">Natural Filagrinol Complex </div>
+                <div class="subcaption"><span>This consists of soya and olive oils, wheat seed germ oil, and flower pollen extract. </span></div>
+                <div class="text">
+                  <p>The Filagrinol complex stimulates the production of collagen and elastin, launches the process of cell renovation, ensures nutrition of soft tissues, makes the skin elastic and resilient, stimulates blood flow, smooths out skin and eliminates all types of wrinkles, and increases the durability of collagen fibers. It features a powerful long-term action. </p>
+                </div>
+              </div>
+              <div class="item">
+                <div class="icon_2"></div>
+                <div class="caption">Avocado Oil</div>
+                <div class="subcaption"><span>Represented as a concentrated extract. Contains a great number of vitamins (A, B, C, E and others) and micronutrients. </span></div>
+                <div class="text">
+                  <p>It is a powerful antioxidant that eliminates the main causes of skin aging, improves nutrition and activates metabolic processes, eliminates toxins, neutralizes the aggressive impact of sun rays on skin, preserves skin elasticity and resilience, provides for a strong rejuvenating effect, and enhances the effect of the Filagrinol complex.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="involving">
+        <div class="wrapper">
+          <div class="container">
+            <div class="title">
+              <div class="product"><img src="img/common/product.png" alt=""></div>
+              <p>Independent Experts in the Field of Cosmetology did a Study of Awaderm Cream <span>Involving 2,000 Women Over 3 Months</span></p>
+            </div>
+            <div class="graph_box">
+              <div class="graph">
+                <div class="item">
+                  <div class="column_awaderm">
+                    <div class="name">awaderm</div>
+                    <div class="value">99%</div>
+                  </div>
+                  <div class="column_other">
+                    <div class="name">other products</div>
+                    <div class="value">16%</div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="column_awaderm">
+                    <div class="name">awaderm</div>
+                    <div class="value">94%</div>
+                  </div>
+                  <div class="column_other">
+                    <div class="name">other products</div>
+                    <div class="value">11%</div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="column_awaderm">
+                    <div class="name">awaderm</div>
+                    <div class="value">97%</div>
+                  </div>
+                  <div class="column_other">
+                    <div class="name">other products</div>
+                    <div class="value">14%</div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="column_awaderm">
+                    <div class="name">awaderm</div>
+                    <div class="value">87%</div>
+                  </div>
+                  <div class="column_other">
+                    <div class="name">other products</div>
+                    <div class="value">8%</div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="column_awaderm">
+                    <div class="name">awaderm</div>
+                    <div class="value">100%</div>
+                  </div>
+                  <div class="column_other">
+                    <div class="name">other products</div>
+                    <div class="value">38%</div>
+                  </div>
+                </div>
+              </div>
+              <div class="graph_legend">
+                <div class="desc">Elimination of wrinkles </div>
+                <div class="desc">Increase in the levels of collagen and elastin </div>
+                <div class="desc">Improvement of main skin characteristics (colour, turgor, elasticity)</div>
+                <div class="desc">Face lifting, elimination of jowls</div>
+                <div class="desc">Absence of side effects</div>
+              </div>
+            </div><a class="thx_button scroll_to_button" href="#scroll_to_form"><span>Order Now</span></a>
+          </div>
+        </div>
+      </section>
+      <section class="reviews">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="leaf2"></div>
+          <div class="leaf3"></div>
+          <div class="leaf4"></div>
+          <div class="container">
+            <div class="title">Reviews Received by Mail</div>
+            <div class="slider_container">
+              <ul class="reviews_slider">
+                <li class="slide">
+                  <div class="icon"><img src="img/common/review_image-1.png" alt="">
+                    <div class="before">before</div>
+                    <div class="after">after</div>
+                  </div>
+                  <div class="description">
+                    <div class="review_head">
+                      <div class="name">Name,  <span>48.y.o, city</span></div>
+                      <div class="stars"></div>
+                    </div>
+                    <div class="review_body">
+                      <div class="caption">I began looking significantly better and younger </div>
+                      <div class="text">
+                        <p>I liked this cream more than any other! I had a lot of minor wrinkles around my eyes and nose, and a few deep ones on my forehead. I decided to try Awaderm because one of my friends recommended it. No cream before helped me like this one. All wrinkles disappeared approximately within 3 weeks. I began looking significantly better and younger. Men even began complimenting me way more often, which is very nice at my age. If any wrinkles suddenly appear again, I’ll know how to get rid of them. I recommend this miraculous cream to everyone!</p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="slide">
+                  <div class="icon"><img src="img/common/review_image-2.png" alt="">
+                    <div class="before">before</div>
+                    <div class="after">after</div>
+                  </div>
+                  <div class="description">
+                    <div class="review_head">
+                      <div class="name">Name,  <span>33.y.o, city</span></div>
+                      <div class="stars"></div>
+                    </div>
+                    <div class="review_body">
+                      <div class="caption">Helped literally within a week </div>
+                      <div class="text">
+                        <p>This is just a wonderful cream!!! It helped me a lot! Lately, I haven’t had much sleep and was very nervous because of my work. As a result, I started to look awful, way older than my age. My skin lost its colour, and I started having dark circles and swelling under my eyes. An acquaintance advised me to try this cream. It helped me literally within a week. My ‘bags’ disappeared, my skin turned pink, but that’s not all; my wrinkles smoothed out, including the wrinkle I’ve had since I was 20! Awaderm is the best cream of all!</p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="slide">
+                  <div class="icon"><img src="img/common/review_image-3.png" alt="">
+                    <div class="before">before</div>
+                    <div class="after">after</div>
+                  </div>
+                  <div class="description">
+                    <div class="review_head">
+                      <div class="name">Name,  <span>39.y.o, city</span></div>
+                      <div class="stars"></div>
+                    </div>
+                    <div class="review_body">
+                      <div class="caption">I am glad I found this wonderful product </div>
+                      <div class="text">
+                        <p>During the first week, my baggy eyes disappeared, and by the end of the month, even a scary wrinkle on my forehead smoothed out, my face lost its grey-white colour, and my skin became significantly more elastic. I began looking like I was 10 years younger. I work as a representative of a big company, and appearance matters a lot to me. I used to try many creams and serums before this, but they weren’t helpful. I even wanted to do a surgery, but I’ve changed my mind now. Awaderm helped me to achieve everything I wanted. I am very glad that I found out about this cream</p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="slide">
+                  <div class="icon"><img src="img/common/review_image-4.png" alt="">
+                    <div class="before">before</div>
+                    <div class="after">after</div>
+                  </div>
+                  <div class="description">
+                    <div class="review_head">
+                      <div class="name">Name,  <span>45.y.o, city</span></div>
+                      <div class="stars"></div>
+                    </div>
+                    <div class="review_body">
+                      <div class="caption">I was waking up every day, going to the mirror, and seeing progress</div>
+                      <div class="text">
+                        <p>The results of using Awaderm cream were already noticeable in just a few days, so I decided to undergo a full course. I was waking up every day, going to the mirror, and seeing progress. As a result, wrinkles around my nose and mouth, wrinkles on my forehead, and my ‘crow’s feet’ disappeared fully. My skin gained a healthy tone, my pores reduced, and my skin feels like it’s more elastic now. Recently, I decided to take a look at my old photos, and I realized that I look much better now. Thanks, Awaderm!</p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="subtitle">What Do Buyers Say About Awaderm?</div>
+            <div class="slider_container_2">
+              <ul class="insta_slider">
+                <li class="item">
+                  <div class="image image_1"></div>
+                  <div class="descripton">
+                    <div class="review_head">
+                      <div class="icon avatar_1"></div>
+                      <div class="name">username</div>
+                    </div>
+                    <div class="review_body">
+                      <div class="text">
+                        <p><span>username  </span>A miraculous product for rejuvenation that works like magic. 🙌 🙌 The most stunning cream I’ve ever tried. 👍 👍 👍 👍 The result after a week of application, and it’s truly impressive. I know you can’t help but agree, it looks way better without wrinkles! 🙏</p>
+                        <div class="hash_tags">#awaderm #cream #naturalcream #creamforwrinkles #antiagingcare #skincare #awadermworksmagic</div>
+                      </div>
+                    </div>
+                    <div class="reviews_bottom">
+                      <div class="icon_1"></div>
+                      <div class="icon_2"></div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item">
+                  <div class="image image_2"></div>
+                  <div class="descripton">
+                    <div class="review_head">
+                      <div class="icon avatar_2"></div>
+                      <div class="name">username</div>
+                    </div>
+                    <div class="review_body">
+                      <div class="text">
+                        <p><span>username  </span>Getting 10 years younger. About a month ago I found out about Awaderm cream and decided to give it a try. I made the before and after pictures on purpose. You can see the result. The cream isn’t expensive compared to luxurious makeup products, but it eliminates wrinkles way better. It’s my favourite cream 💜💜💜 </p>
+                        <div class="hash_tags">#moisturizingcream #facecare #resilientskin #athomeskincare  #creamagainstwrinkles #creamforwrinkles #uniquecream #awaderm #quickrejuvenation</div>
+                      </div>
+                    </div>
+                    <div class="reviews_bottom">
+                      <div class="icon_1"></div>
+                      <div class="icon_2"></div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item">
+                  <div class="image image_3"></div>
+                  <div class="descripton">
+                    <div class="review_head">
+                      <div class="icon avatar_3"></div>
+                      <div class="name">username</div>
+                    </div>
+                    <div class="review_body">
+                      <div class="text">
+                        <p><span>username  </span>I recently read about it in Vogue. 💁‍ I decided to give it a try last week. How do you like the result? 😀 All of this is Awaderm cream All my friends ordered it 🙏 🙏 </p>
+                        <div class="hash_tags">#cream #facecream #creamagainstwrinkles #facecream #uniquecream #rejuvenatingcream #youthcream #organiccosmetics #organiccream #creamforagingskin #resilientskin #turgor #forskinturgor</div>
+                      </div>
+                    </div>
+                    <div class="reviews_bottom">
+                      <div class="icon_1"></div>
+                      <div class="icon_2"></div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item">
+                  <div class="image image_4"></div>
+                  <div class="descripton">
+                    <div class="review_head">
+                      <div class="icon avatar_4"></div>
+                      <div class="name">username</div>
+                    </div>
+                    <div class="review_body">
+                      <div class="text">
+                        <p><span>username  </span>Who do you think this is? This is my granny, she’s 74! 😱 I presented her with this cream called Awaderm. Frankly speaking, she was using it not for 3 weeks, but 6, but the number of wrinkles decreased significantly! It’s possible to look beautiful even at her age! 👍 👍 👍 </p>
+                        <div class="hash_tags">#myfavouritecream #supercream #healthbeauty #cream #facecream #creamforwrinkles #moisturizingcream  #naturalcosmetics #multivitamincream #originalcosmetics</div>
+                      </div>
+                    </div>
+                    <div class="reviews_bottom">
+                      <div class="icon_1"></div>
+                      <div class="icon_2"></div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="esle">
+        <div class="wrapper">
+          <div class="container">
+            <div class="else_main">
+              <div class="title">Why Else Should You Use Awaderm?</div>
+              <div class="main_part">
+                <div class="left_part">
+                  <div class="item">
+                    <div class="icon icon_1"></div>
+                    <div class="desc"><span>100% natural  </span>and safe</div>
+                  </div>
+                  <div class="item">
+                    <div class="icon icon_2"></div>
+                    <div class="desc"><span>Doesn’t cause  </span>skin addiction</div>
+                  </div>
+                  <div class="item">
+                    <div class="icon icon_3"></div>
+                    <div class="desc"><span>Ensures natural  </span>rejuvenation</div>
+                  </div>
+                  <div class="item">
+                    <div class="icon icon_4"></div>
+                    <div class="desc"><span> A unique modern </span>formula</div>
+                  </div>
+                </div>
+                <div class="right_part">
+                  <div class="item">
+                    <div class="icon icon_5"></div>
+                    <div class="desc"><span>Perfect for skin  </span>care at home</div>
+                  </div>
+                  <div class="item">
+                    <div class="icon icon_6"></div>
+                    <div class="desc"><span>The choice  </span>of leading cosmetologists</div>
+                  </div>
+                  <div class="item">
+                    <div class="icon icon_7"></div>
+                    <div class="desc"><span>An affordable  </span>price</div>
+                  </div>
+                </div>
+              </div><a class="thx_button scroll_to_button" href="#scroll_to_form"><span>Order Now</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="recommendations">
+        <div class="wrapper">
+          <div class="container">
+            <div class="before"></div>
+            <div class="title">Recommendations on Application</div>
+            <ul>
+              <li>
+                <div class="icon"></div>
+                <div class="caption">Take off your makeup </div>
+                <div class="desc">carefully and cleanse your face</div>
+              </li>
+              <li>
+                <div class="icon"></div>
+                <div class="caption">Apply the cream </div>
+                <div class="desc">using light movements, tapping it in with your fingertips</div>
+              </li>
+              <li>
+                <div class="icon"></div>
+                <div class="caption">Repeat the procedure </div>
+                <div class="desc">2 times a day, in the morning and in the evening</div>
+              </li>
+              <li>
+                <div class="icon"></div>
+                <div class="caption">Become younger and prettier </div>
+                <div class="desc">every day using Awaderm</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section class="how_order">
+        <div class="wrapper">
+          <div class="container">
+            <div class="title"><span>How Do I Order?</span></div>
+            <div class="top_part">
+              <div class="circle"><span>
+                  <div class="icon_form"></div></span></div>
+              <div class="circle"><span>
+                  <div class="icon_phone"></div></span></div>
+              <div class="circle"><span>
+                  <div class="icon_box"></div></span></div>
+            </div>
+            <div class="bottom_part">
+              <ul class="list">
+                <li>
+                  <div class="box">
+                    <div class="caption">Fill in the order form below</div>
+                    <div class="desc">Your name and your contact telephone number</div>
+                  </div>
+                </li>
+                <li>
+                  <div class="box">
+                    <div class="caption">Confirm the delivery address, type and date</div>
+                    <div class="desc">Manager will call you after the order</div>
+                  </div>
+                </li>
+                <li>
+                  <div class="box">
+                    <div class="caption">Recieve the product and pay</div>
+                    <div class="desc">Payment upon delivery to courier or at post office</div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="delivery">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="container">
+            <div class="title">Delivery All Over Europe!</div>
+            <div class="image"><img src="img/common/product.png" alt="">
+              <div class="icon_product_box"></div>
+              <div class="icon_flag"></div>
+            </div>
+            <ul class="delivery_list">
+              <li>
+                <p>You will recieve your Awaderm Cream in 4-7 days after the order.</p>
+              </li>
+              <li>
+                <p>Pay only after recieving the package!</p>
+              </li>
+            </ul>
+            <div class="icons_list">
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="form_section">
+        <div class="wrapper">
+          <div class="leaf1"></div>
+          <div class="leaf2"></div>
+          <div class="leaf3"></div>
+          <div class="container">
+            <div class="title">Get Rid of Wrinkles in <span>21 Days</span></div>
+            <div class="form_section_main">
+              <div class="left_part">
+                <div class="discount">
+                  <div class="proc">60% </div>
+                  <p>discount<span>!</span></p>
+                </div>
+                <div class="product"><img src="img/common/product.png" alt=""></div>
+                <div class="icons">
+                  <div class="icon_1"></div>
+                  <div class="icon_2"></div>
+                  <div class="icon_3"></div>
+                </div>
+              </div>
+              <div class="right_part">
+                <div class="form_box" id="form">
+                  <div class="top_part">
+                    <div class="arrow_price">
+                      <div class="old_price">
+                        <div class="desc">retail:</div>
+                        <div class="value"><span><?=$currency?><?=$price['values']['price2']?></span></div>
+                      </div>
+                      <div class="new_price">
+                        <div class="value">
+                          <div class="new_price_count"><?=$currency?><?=$price['values']['amo_total_main_price']?>
+                            <div class="label_new"><span>New!</span></div>
+                          </div>
+                          <div class="box">
+                            <p><span class="plus">+</span><span class="free">Fast </span></p>
+                            <p><span class="regular">Shipping</span></p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="timer" data-timer>
+                      <div class="unit hours" data-pattern="{hnn}">
+                        <div class="value">00</div>
+                        <div class="desc">hours</div>
+                      </div>
+                      <div class="unit minutes" data-pattern="{mnn}">
+                        <div class="value">00</div>
+                        <div class="desc">minutes</div>
+                      </div>
+                      <div class="unit seconds" data-pattern="{snn}">
+                        <div class="value">00</div>
+                        <div class="desc">seconds</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="bottom_part">
+                    <div class="form_title">Order Now</div>
+                    <form class="form" id="ajax_form_cod" action="" data-errorname="<?=$text['cod_form']['fields_placeholder'][0]?> <?=$text['order_form']['errors']['valid']?>" data-errorphone="<?=$text['cod_form']['fields_placeholder'][1]?> <?=$text['order_form']['errors']['valid']?>">
+                      <input type="hidden" name="user_ip" value="<?=$_SERVER['REMOTE_ADDR']?>">
+                      <input type="hidden" name="session_id" value="<?=$_GET['session'] ?? ''?>">
+                      <input type="hidden" name="aff_id" value="<?=$_GET['aff_id'] ?? ''?>">
+                      <input type="hidden" name="aff_sub" value="<?=$_GET['aff_sub'] ?? ''?>">
+                      <input type="hidden" name="aff_sub2" value="<?=$_GET['aff_sub2'] ?? ''?>">
+                      <input type="hidden" name="aff_sub3" value="<?=$_GET['aff_sub3'] ?? ''?>">
+                      <input type="hidden" name="aff_sub4" value="<?=$_GET['aff_sub4'] ?? ''?>">
+                      <input type="hidden" name="aff_sub5" value="<?=$_GET['aff_sub5'] ?? ''?>">
+                      <select class="county_select" name="country">
+                        	<?php foreach ($text['cod_country'] as $key => $value) { ?>
+                        	<?php echo '<option value="'.$value['domain'].'">'.$value['name'].'</option>'; ?>
+                        	<?php } ?>
+                        <div class="field name"></div>
+                      </select>
+                      <div class="field name">
+                        <input type="text" data-error-name="Name" name="name" placeholder="Name:">
+                      </div>
+                      <div class="field phone">
+                        <div class="phone_code">
+                          <input class="code" type="text" name="phone_code" placeholder="1234">
+                        </div>
+                        <input type="text" data-error-name="Phone" name="phone" placeholder="123-124-1224">
+                      </div>
+                      <button class="submit_form" type="submit"><span class="big">Order Now</span></button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="last_part">
+              <div class="purchased">Purchased this week: <span>1428 pcs</span></div>
+              <div class="promotion">
+                <p>The PROMOTION is active <span>from  <span class="date_from" data-date data-day="-30"> </span></span><span> to  <span class="date_to" data-date data-day="1"> </span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer>
+        <div class="wrapper">
+          <div class="container">
+            <div class="row top_line align-items-center">
+              <div class="col-12">
+                <div class="name"><strong>Awaderm </strong></div>
+              </div>
+            </div>
+            <div class="row justify-content-between">
+              <div class="col-xl-7 col-lg-7 col-md-5 col-sm-6">
+                <div class="footer_warnings"><strong>Warning: </strong>  Keep out of reach of children. For external use only. Stop use and consult a doctor if irritation develops. All Pictures shown are for illustration purpose only. Actual product may vary due to product enhancement. </div>
+              </div>
+              <div class="col-xl-4 col-lg-5 col-md-5 col-sm-6 mobile_hide">
+                <div class="logo_list"><span class="item_1"></span><span class="item_2"></span><span class="item_3"></span><span class="item_4"></span></div>
+              </div>
+            </div>
+            <div class="row justify-content-between">
+              <div class="col-lg-6 col-md-5 col-sm-5">
+                <div class="copyright">
+                  <div class="group">Copyright © 2017-2018  <br> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <script src="js/jquery.scrollbar.min.js"></script>
+      <script src="js/jquery.bxslider.min.js"></script>
+      <script src="js/bootsrap-select.js"></script>
+    </div>
+  </body>
+</html>
